@@ -36,3 +36,6 @@ pour lancer : run_MF.m
  iter = +inf;               % Nombre d'itérations maximum
  
  rank = 6; 
+ 
+ ![image](https://user-images.githubusercontent.com/26902337/194698978-c58ee274-349f-4477-a81a-6c4073a7599c.png)
+
