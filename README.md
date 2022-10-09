@@ -1,9 +1,8 @@
-Project: SysRecommander
+## System Recommander (MF)
 
 Mise en place d'un systéme de recommandation par factorisation matricielle :
 
 Jeu de donnée :
-
 
 Pour le jeu de donnée, on a 6049 utilisateurs et 3952 films, les notes des utilisateurs vont de 1 à 5. 5 étant la note quand l’utilisateur a apprécié le film.
 Le nombre total des notes est 800163, la figure ci-dessous montre la distribution de ces notes.
