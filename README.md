@@ -1,6 +1,6 @@
 ## System Recommander (MF)
 
-Mise en place d'un systéme de recommandation par factorisation matricielle :
+Mise en place d'un systéme de recommandation par factorisation matricielle (Matrix Factorization) :
 
 Jeu de donnée :
 
